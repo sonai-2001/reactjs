@@ -1,0 +1,3 @@
+virtual dom is a dom which made by react it compares with the main dom and if any changes will appear 
+it compares with its own another copy.
+after change all the changes it reflects on main dom in this way the main dom is not repainted only do change the new thing.
