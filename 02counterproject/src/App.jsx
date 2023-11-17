@@ -19,9 +19,10 @@ function App() {
   return (
     <>
 <h1>AGE:{counter}</h1>
-  <button onClick={increase}>INCREASE :{counter}</button>
+<button onClick={increase}>INCREASE :{counter}</button>
   <br />
   <button onClick={decrease}>REDUCE:{counter}</button>
+  
     </>
   )
 }
